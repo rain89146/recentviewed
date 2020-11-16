@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": "1000",
+            "image": "https://a0.muscache.com/im/pictures/212b5a52-70fc-41fb-8e43-085a14398549.jpg?im_w=1200",
+            "title": "Private Apartment in Historic Victorian with Back Patio",
+            "remark": "Single family",
+            "price": "325000",
+            "views": "47"
+        },
+        {
+            "id": "1001",
+            "image": "https://a0.muscache.com/im/pictures/cac13d0f-1b23-4e42-aad7-c24e40ed9895.jpg?im_w=1200",
+            "title": "Private Apartment in Historic Victorian with Back Patio",
+            "remark": "Single family",
+            "price": "325000",
+            "views": "47"
+        },
+        {
+            "id": "1002",
+            "image": "https://a0.muscache.com/im/pictures/24b6e6b5-ebb4-4c50-981b-d8147f068f5a.jpg?im_w=1200",
+            "title": "Private Apartment in Historic Victorian with Back Patio",
+            "remark": "Single family",
+            "price": "325000",
+            "views": "47"
+        },
+        {
+            "id": "1003",
+            "image": "https://a0.muscache.com/im/pictures/40150833-d680-4473-a155-ca4035017d3a.jpg?im_w=1200",
+            "title": "Private Apartment in Historic Victorian with Back Patio",
+            "remark": "Single family",
+            "price": "325000",
+            "views": "47"
+        },
+        {
+            "id": "1004",
+            "image": "https://a0.muscache.com/im/pictures/00fb272c-95e8-469a-a3ab-a43951f64da1.jpg?im_w=1200",
+            "title": "Private Apartment in Historic Victorian with Back Patio",
+            "remark": "Single family",
+            "price": "325000",
+            "views": "47"
+        }
+    ]
+}
